@@ -52,14 +52,14 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Melanie Rivera',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: '',
+    x: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
