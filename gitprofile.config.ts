@@ -83,20 +83,9 @@ const CONFIG = {
       'https://github.com/mriveratoledo/mriveratoledo.github.io/raw/main/MelanieRiveraCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Bioinformatics',
+    'Proficient in Linux',
+    'Management',
   ],
   experiences: [
     {
@@ -124,16 +113,11 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'California State University, Stanislaus',
+      degree: 'Bachelors Degree in Biological Sciences',
+      from: '2021',
+      to: '2025',
+    }
     },
   ],
   publications: [
