@@ -117,7 +117,6 @@ const CONFIG = {
       degree: 'Bachelors Degree in Biological Sciences',
       from: '2021',
       to: '2025',
-    }
     },
   ],
   publications: [
