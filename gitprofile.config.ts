@@ -113,7 +113,7 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'California State University, Stanislaus',
+      institution: 'California State University Stanislaus',
       degree: 'Bachelors Degree in Biological Sciences',
       from: '2021',
       to: '2025',
