@@ -45,6 +45,8 @@ const CONFIG = {
           link: 'https://mriveratoledo.github.io/MRA_template_prokaryotic-eukaryotic_genome.pdf',
         },
       ],
+    },
+  },
   seo: {
     title: 'Portfolio of Melanie Rivera',
     description: '',
