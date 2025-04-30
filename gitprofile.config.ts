@@ -33,24 +33,22 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'I-Search Paper',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'In this paper I researched the gender bias in higher education systems,specificallly in science.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'imageUrl: 'https://img.icons8.com/ios/100/pdf-2.png',
+          link:'https://mriveratoledo.github.io/I-search%20paper%20final%20draft.pdf',
         },
         {
-          title: 'Project Name',
+          title: 'Draft Genome Sequence of Maricaulis maris Paper',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This paper is a genomic sequence research paper that was jointly written in a Bioinformatics course.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'imageUrl: 'https://img.icons8.com/ios/100/pdf-2.png',
+          link: 'https://mriveratoledo.github.io/MRA_template_prokaryotic-eukaryotic_genome.pdf',
         },
       ],
-    },
-  },
   seo: {
     title: 'Portfolio of Melanie Rivera',
     description: '',
