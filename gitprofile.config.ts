@@ -34,18 +34,14 @@ const CONFIG = {
       projects: [
         {
           title: 'I-Search Paper',
-          description:
-            'In this paper I researched the gender bias in higher education systems,specificallly in science.',
-          imageUrl:
-            'imageUrl: 'https://img.icons8.com/ios/100/pdf-2.png',
+          description: 'In this paper I researched the gender bias in higher education systems,specificallly in science.',
+          imageUrl:'https://img.icons8.com/ios/100/pdf-2.png',
           link:'https://mriveratoledo.github.io/I-search%20paper%20final%20draft.pdf',
         },
         {
           title: 'Draft Genome Sequence of Maricaulis maris Paper',
-          description:
-            'This paper is a genomic sequence research paper that was jointly written in a Bioinformatics course.',
-          imageUrl:
-            'imageUrl: 'https://img.icons8.com/ios/100/pdf-2.png',
+          description:'This paper is a genomic sequence research paper that was jointly written in a Bioinformatics course.',
+          imageUrl: 'https://img.icons8.com/ios/100/pdf-2.png',
           link: 'https://mriveratoledo.github.io/MRA_template_prokaryotic-eukaryotic_genome.pdf',
         },
       ],
