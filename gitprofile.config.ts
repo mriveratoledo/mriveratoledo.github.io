@@ -218,6 +218,6 @@ const CONFIG = {
     >GitProfile</a> and ❤️`,
 
   enablePWA: true,
-};
+}
 
 export default CONFIG;
