@@ -121,9 +121,9 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcements',
       authors: 'Melanie Rivera, Chioma Chibuko, Elias Figueiredo,Sebastian Lepe, Joseph Sada',
-      link: 'https://example.com',
+      link: 'https://github.com/mriveratoledo/mriveratoledo.github.io/raw/main/MRA_template_prokaryotic-eukaryotic_genome.pdf',
       description:
-        'This is an accepted manuscript. Here, we report the genome of Maricaulis maris DSM 4734 isolated from filtered polluted seawater. The whole genome was 3568848 bp long, with a GC content of 63.14%, and resistance to 12 antibiotics.',
+        'This is a manuscript in submission. Here, we report the genome of Maricaulis maris DSM 4734 isolated from filtered polluted seawater. The whole genome was 3568848 bp long, with a GC content of 63.14%, and resistance to 12 antibiotics.',
     },
     {
       title: 'Publication Title',
